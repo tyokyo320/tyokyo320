@@ -10,10 +10,6 @@ I am an international student who came from China. I have been in Japan for 5 ye
 - :globe_with_meridians: Chinese · Japanese · English
 - 📫 How to reach me: **contact@tyokyo320.com**
 
-### Vistors Count ✨
-
-![Vistors Count](https://count.getloli.com/get/@tyokyo320?theme=gelbooru)
-
 ### Knowledges 🐾
 
 <p align="center">
@@ -47,7 +43,9 @@ I am an international student who came from China. I have been in Japan for 5 ye
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
+### Vistors Count ✨
+
+![Vistors Count](https://count.getloli.com/get/@tyokyo320?theme=gelbooru)
 
 <!--
 - 🔭 I’m currently working on ...
