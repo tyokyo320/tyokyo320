@@ -10,6 +10,10 @@ I am an international student who came from China. I have been in Japan for 5 ye
 - :globe_with_meridians: Chinese · Japanese · English
 - 📫 How to reach me: **contact@tyokyo320.com**
 
+### Vistors Count ✨
+
+![Vistors Count](https://count.getloli.com/get/@tyokyo320?theme=gelbooru)
+
 ### Knowledges 🐾
 
 <p align="center">
