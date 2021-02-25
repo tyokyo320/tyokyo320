@@ -28,9 +28,11 @@ I am an international student who came from China. I have been in Japan for 5 ye
 - **OS**: ![Windows10](https://img.shields.io/badge/Windows-0078D6?style=popout&logo=windows&logoColor=white) ![MacOS Big Sur](https://img.shields.io/badge/macOS-e03a3a?style=popout&logo=apple&logoColor=white) ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C.svg?logo=manjaro&style=popout&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=popout&logoColor=white)
 - **Editor**: ![Vscode](https://img.shields.io/badge/VSCode-3860c4?style=popout&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=popout&logoColor=white)
 
-### Vistors Count ✨
-
-![Vistors Count](https://count.getloli.com/get/@tyokyo320?theme=gelbooru)
+<p align="center">
+  <a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/get/@tyokyo320?theme=rule34" alt="github.tyokyo320.readme">
+  </a>
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
