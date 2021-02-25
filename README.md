@@ -1,7 +1,7 @@
 
 ### Hi I'm tyokyo320 👋
 
-<!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <img align="right" width="200px" src="https://blog.tyokyo320.com/about/2233.webp" />
 
@@ -13,7 +13,7 @@ I am an international student who came from China. I have been in Japan for 5 ye
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true"> -->
 </p>
 
 ### Knowledges & Tools 🐾
