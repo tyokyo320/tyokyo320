@@ -1,3 +1,4 @@
+
 ### Hi I'm tyokyo320 👋
 
 <!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -10,40 +11,22 @@ I am an international student who came from China. I have been in Japan for 5 ye
 - :globe_with_meridians: Chinese · Japanese · English
 - 📫 How to reach me: **contact@tyokyo320.com**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
-
-### Knowledges 🐾
-
-<p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="golang" src="https://img.shields.io/badge/Golang-7fd5ea?style=flat-square&logo=go&logoColor=white">
-  <img alt="c++" src="https://img.shields.io/badge/C++-F15B2A?style=flat-square&logo=c%2b%2b">
-  <img alt="c" src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c">
-  <br/>
-  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-f34b7d?style=flat-square&logo=css3">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-276DC3?style=flat-square&logo=javascript">
-  <br/>
-  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django">
-  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery">
-  <br/>
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-EEE?style=flat-square&logo=docker">
-  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf?style=flat-square&logo=nginx">
-  <img alt="redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white">
-  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-0074a3?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true">
 </p>
+
+### Knowledges & Tools 🐾
+
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3572a5?style=popout&logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-7fd5ea?style=popout&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-F15B2A?style=popout&logo=c%2b%2b) ![C](https://img.shields.io/badge/C-007ACC?style=popout&logo=c) ![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=popout&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=popout&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=popout&logo=javascript&logoColor=white)
+- **Framework & Library**: ![Django](https://img.shields.io/badge/-Django-092E20?style=popout&logo=django) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=popout&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=popout&logo=jquery)
+- **Database**: ![MySQL](https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=popout&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=popout) ![Redis](https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=popout&logoColor=white)
+- **Others**: ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=popout&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=popout) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=popout) ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=popout&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f05032?style=popout&logo=git&logoColor=white)
 
 ### Development Environment 🍻
 
-<p align="center">
-  <img alt="Windows10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img alt="macOS Big Sur" src="https://img.shields.io/badge/macOS-e03a3a?style=flat-square&logo=apple&logoColor=white">
-  <img alt="manjaro" src="https://img.shields.io/badge/Manjaro-35bf5c?style=flat-square&logo=manjaro&logoColor=white">
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-6F52B5?style=flat-square&logo=ubuntu&logoColor=white">
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
-</p>
+- **OS**: ![Windows10](https://img.shields.io/badge/Windows-0078D6?style=popout&logo=windows&logoColor=white) ![MacOS Big Sur](https://img.shields.io/badge/macOS-e03a3a?style=popout&logo=apple&logoColor=white) ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C.svg?logo=manjaro&style=popout&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=popout&logoColor=white)
+- **Editor**: ![Vscode](https://img.shields.io/badge/VSCode-3860c4?style=popout&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=popout&logoColor=white)
 
 ### Vistors Count ✨
 
