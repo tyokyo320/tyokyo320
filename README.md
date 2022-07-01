@@ -3,7 +3,7 @@
 
 <!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- <img align="right" width="180px" src="https://blog.tyokyo320.com/about/anya.jpg" /> -->
+<img align="right" width="180px" src="https://blog.tyokyo320.com/about/spyfamily.jpg" />
 
 I am an international student who came from China. I have been in Japan for 6 years. I am aspiring to be a back-end web developer.
 
