@@ -5,7 +5,7 @@
 
 <img align="right" width="180px" src="https://blog.tyokyo320.com/about/spyfamily.jpg" />
 
-I am an international student who came from China. I have been in Japan for 6 years. I'm aspired to be a cloud infrastructure engineer.
+A cloud infrastructure developer based in JP, currently working on Media Streaming at [MIXI, Inc.](https://mixi.co.jp/en/)
 
 - 🌱 I’m currently learning and sharing on [my blog](https://blog.tyokyo320.com), welcome~
 - :globe_with_meridians: Chinese · Japanese · English
