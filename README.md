@@ -5,7 +5,7 @@
 
 <img align="right" width="180px" src="https://blog.tyokyo320.com/about/spyfamily.jpg" />
 
-A cloud infrastructure developer based in JP, currently working on Streaming Media at [MIXI, Inc.](https://mixi.co.jp/en/)
+A cloud infrastructure developer based in JP.
 
 - 🌱 I’m currently learning and sharing on [my blog](https://blog.tyokyo320.com), welcome~
 - :globe_with_meridians: Chinese · Japanese · English
