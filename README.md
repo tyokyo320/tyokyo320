@@ -11,14 +11,14 @@ A cloud infrastructure developer based in JP.
 - :globe_with_meridians: Chinese · Japanese · English
 - 📫 How to reach me: **contact@tyokyo320.com**
 
-#### Activity ⚡
+### Activity ⚡
 
 <p align="center"> 
   <img src="https://github-readme-stats-tyokyo320.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true"> -->
 </p>
 
-#### My Tech Stack 🐾
+### My Tech Stack 🐾
 
 <p align="center">
   <a href="https://skillicons.dev">
