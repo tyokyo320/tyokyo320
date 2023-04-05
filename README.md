@@ -18,13 +18,33 @@ A cloud infrastructure developer based in JP.
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true"> -->
 </p>
 
-### My Tech Stack 🐾
+### Technology Stack 🐾
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ruby,mysql,postgres,redis,rails,vue,aws,gcp,kubernetes,docker,nginx,prometheus,grafana&theme=light&perline=5" />
-  </a>
-</p>
+<div align="center">
+  <!-- <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,ruby,mysql,postgres,redis,rails,vue,aws,gcp,kubernetes,docker,nginx,prometheus,grafana,linux,bash,git,latex,vscode&theme=light&perline=10" />
+  </a> -->
+  <details open>
+    <summary><b>🛠️ Development Stack</b></summary>
+    <table>
+      <tr>
+        <th align="right">Category</th>
+        <th align="left">Technologies</th>
+      </tr>
+      <tr>
+        <td align="right">Core</td>
+        <td><img src="https://skillicons.dev/icons?i=go,py,ruby,mysql,sqlite,redis,vue&theme=light" height="35px"/></td>
+      </tr>
+        <td align="right">Infrastructure</td>
+        <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws,grafana,prometheus,ansible&theme=light" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Miscellaneous</td>
+        <td><img src="https://skillicons.dev/icons?i=linux,bash,git,markdown,latex,postman,vscode&theme=light" height="35px"/></td>
+      </tr>
+    </table>
+  </details>
+</div>
 
 <!-- ### Moe-counter 🔭
 
