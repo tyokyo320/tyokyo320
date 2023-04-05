@@ -21,9 +21,6 @@ A cloud infrastructure developer based in JP.
 ### Technology Stack 🐾
 
 <div align="center">
-  <!-- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ruby,mysql,postgres,redis,rails,vue,aws,gcp,kubernetes,docker,nginx,prometheus,grafana,linux,bash,git,latex,vscode&theme=light&perline=10" />
-  </a> -->
   <details open>
     <summary><b>🛠️ Development Stack</b></summary>
     <table>
