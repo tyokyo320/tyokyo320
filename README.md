@@ -30,7 +30,8 @@ A cloud infrastructure developer based in JP.
       </tr>
       <tr>
         <td align="right">Core</td>
-        <td><img src="https://skillicons.dev/icons?i=go,py,ruby,ts,vue,mysql,redis&theme=light" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=go,py,cpp,ts,react,mysql,redis&theme=light" height="35px"/></td>
+<!--         <td><img src="https://skillicons.dev/icons?i=go,py,ruby,ts,vue,mysql,redis&theme=light" height="35px"/></td> -->
       </tr>
         <td align="right">Infrastructure</td>
         <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws,grafana,prometheus,nginx&theme=light" height="35px"/></td>
