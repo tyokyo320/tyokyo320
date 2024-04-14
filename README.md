@@ -4,7 +4,7 @@
 <!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- <img align="right" width="180px" src="https://blog.tyokyo320.com/about/spyfamily.jpg" /> -->
-<img align="right" width="180px" src="https://blog.tyokyo320.com/about/EunheePeace.webp" />
+<img align="right" width="180px" src="https://blog.tyokyo320.com/about/EunheeHowdy.webp" />
 
 A cloud infrastructure developer based in JP.
 
